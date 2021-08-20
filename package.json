@@ -1,0 +1,23 @@
+{
+    "name": "openweathermap_noreact",
+    "version": "1.0.0",
+    "description": "Express server that outputs a JSON representation of the averages of the weather for the next three days in Lafayette.",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/journeycruz/OpenWeatherMap_NoReact.git"
+    },
+    "author": "Journey Cruz",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/journeycruz/OpenWeatherMap_NoReact/issues"
+    },
+    "homepage": "https://github.com/journeycruz/OpenWeatherMap_NoReact#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
